@@ -1,0 +1,19 @@
+.map-box {
+    position: relative;
+    height: inherit;
+    width: inherit;
+    top: 350px;
+}
+
+.map, .track, .spinner {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.map {
+    z-index: 0;
+}
