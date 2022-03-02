@@ -10,6 +10,6 @@ SpaceX is a web app that tracks satellites constructed by SpaceX, and draw the s
 * Draw satellites on a world map using [d3](https://d3js.org) library.
 * Designed components using [Ant Design](https://ant.design).
 * Worked with [N2YO API](https://www.n2yo.com) to get satellite data.
-* Tested with Chrome and Safari.
+* Tested with Chrome.
 
 
