@@ -1,6 +1,6 @@
 # spacex
 
-This is a web app that provides satellite tracking prediction on a world map.  
+SpaceX is a web app that tracks satellites constructed by SpaceX, and draw the satellite tracking prediction on a world map.  
 
 <img src="https://github.com/qianhuiwei/spacex/blob/main/pageDemo.png" width="900"/>
 
