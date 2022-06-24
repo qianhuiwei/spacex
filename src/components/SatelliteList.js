@@ -6,7 +6,7 @@ class SatelliteList extends React.Component {
     constructor() {
         super();
         this.state= {
-            duration: 0,
+            duration: 10,
         }
     }
 
