@@ -73,7 +73,6 @@ class Main extends React.Component {
             });
         }
 
-        console.log(list);
         this.setState({
             selected: list,
         })

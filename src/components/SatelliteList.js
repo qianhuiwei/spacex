@@ -36,7 +36,7 @@ class SatelliteList extends React.Component {
                     <InputNumber
                         min={0}
                         max={90}
-                        defaultValue={10}
+                        defaultValue={0}
                         style={{ margin: "8px 2px" }}
                         onChange={this.onChangeDuration}
                     />
